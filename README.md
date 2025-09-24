@@ -5,7 +5,7 @@
 
 ## About Me  
 
-<p style="display= flex; text-align: center; color: red; align-items: center; justify-content: center; background: blue">Hola! Soy Marlon Vera"</p>
+*Hola! Soy Marlon Vera*
 
 ---
 
@@ -24,9 +24,5 @@
 ---
 
 ## Connect with me  
-<a href="https://www.linkedin.com/in/marlon-vera-8b33a2384/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align:middle; margin-right:8px;"/>
-</a>
-<a href="mailto:veraloor.marlon@gmail.com?subject=Contacto%20desde%20GitHub%20README&body=Hola%20Marlon%2C%0A%0AMe%20gustar%C3%ADa%20contactarte%20por%20lo%20siguiente%3A%0A" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="vertical-align:middle;"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/marlon-vera-8b33a2384/)
+[![Gmail](https://img.shields.io/badge/-Gmail-F7F7F7?logo=gmail&logoColor=black&style=for-the-badge)](mailto:veraloor.marlon@gmail.com?subject=Contacto%20desde%20GitHub%20README&body=Hola%20Marlon%2C%0A%0AMe%20gustar%C3%ADa%20contactarte%20por%20lo%20siguiente%3A%0A)

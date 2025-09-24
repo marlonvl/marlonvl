@@ -1,6 +1,7 @@
 # Hello! I'm Marlon Vera 👋
 
 ![Banner](https://raw.githubusercontent.com/marlonvl/assets/6b191c9c38dc12a08040651587fd3c95d46aa5e5/img/BannerRedesLinkedIn.svg)
+
 ---
 
 ## About Me  👨‍💻

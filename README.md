@@ -28,7 +28,7 @@
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
-| ![Click-Coffee Logo](https://cafeteria-click-coffee.vercel.app/img/favicon.svg) **Click-Coffee**| Landing page de una cafetería moderna | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [Live Demo](https://cafeteria-click-coffee.vercel.app/) |
+| ![Click-Coffee Logo](https://cafeteria-click-coffee.vercel.app/img/favicon.svg) **Click-Coffee**| A fully responsive website designed to highlight a coffee shop's brand and offerings | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [Live Demo](https://cafeteria-click-coffee.vercel.app/) |
 
 ---
 

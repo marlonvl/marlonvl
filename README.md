@@ -25,14 +25,6 @@
 
 ---
 
-## Projects  💼
-
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| ![Click-Coffee Logo](https://cafeteria-click-coffee.vercel.app/img/favicon.svg) **Click-Coffee**| A fully responsive website designed to highlight a coffee shop's brand and offerings | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [Live Demo](https://cafeteria-click-coffee.vercel.app/) |
-
----
-
 ## Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/marlon-vera-8b33a2384/)
 [![Gmail](https://img.shields.io/badge/-Gmail-F7F7F7?logo=gmail&logoColor=black&style=for-the-badge)](mailto:veraloor.marlon@gmail.com?subject=Contacto%20desde%20GitHub%20README&body=Hola%20Marlon%2C%0A%0AMe%20gustar%C3%ADa%20contactarte%20por%20lo%20siguiente%3A%0A)
